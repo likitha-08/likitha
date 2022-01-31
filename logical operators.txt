@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: demo1, Configuration: Debug Any CPU ------
+1>  demo1 -> C:\Users\Dell\source\repos\demo1\bin\Debug\demo1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
