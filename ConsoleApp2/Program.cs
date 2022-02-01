@@ -8,9 +8,9 @@ namespace ConsoleApp2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
-            int i, n, sum = 0;
+           int i, n, sum = 0;
             Console.Write("sum of n natural numbers:\n");
 
             Console.Write("enter the no of terms : ");
