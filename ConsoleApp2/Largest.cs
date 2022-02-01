@@ -8,7 +8,7 @@ namespace ConsoleApp2
 {
     class Largest
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             int num,i,j = 0, lrg, lrg2;
             int[] arr1 = new int[100];
