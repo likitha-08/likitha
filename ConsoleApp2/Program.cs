@@ -21,7 +21,16 @@ namespace ConsoleApp2
                 Console.Write("{0} ", i);
                 sum += i;
             }
-            Console.Write(" \n Sum of Natural Number upto {0} terms : {1} \n", n, sum);
+            Console.Write(" \n Sum of Natural Number upto {0} terms : {1} \n\n\n", n, sum);
+
+            while (i <= n)
+            {
+                sum += i;
+                i++;
+            }
+
+            Console.WriteLine("Total sum: " + sum);
         }
+
     }
 }
