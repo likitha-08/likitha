@@ -8,7 +8,7 @@ namespace ConsoleApp2
 {
     class FunctionsDemo
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
 
             int i, fact = 1, number;
