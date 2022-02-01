@@ -8,7 +8,7 @@ namespace ConsoleApp2
 {
     class DuplicateElements
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             int[] arr = new int[100];
             int i, j, num, count = 0;

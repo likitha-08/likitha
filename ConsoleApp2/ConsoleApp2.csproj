@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="DuplicateElements.cs" />
     <Compile Include="FunctionDemo.cs" />
+    <Compile Include="Largest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
