@@ -41,7 +41,7 @@ namespace ConsoleApp3
 
     class DataOfEemployee
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             Employee employee = new Employee();
             employee.GetEmployeeInformation();
