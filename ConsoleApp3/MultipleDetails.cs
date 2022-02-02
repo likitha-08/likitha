@@ -33,7 +33,7 @@ namespace ConsoleApp3
     }
     class MultipleDetails
     {
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             Students[] student = new Students[2];
 

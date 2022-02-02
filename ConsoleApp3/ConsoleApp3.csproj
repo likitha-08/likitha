@@ -43,11 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConstructorVsDeconstructor.cs" />
     <Compile Include="DataOfEemployee.cs" />
     <Compile Include="Details.cs" />
+    <Compile Include="FunctionAndOperatorOverloading.cs" />
+    <Compile Include="LocalInstanvariables.cs" />
     <Compile Include="MultipleDetails.cs" />
+    <Compile Include="NormParmeters.cs" />
+    <Compile Include="PhotoBook1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaticKeyword.cs" />
     <Compile Include="Substring.cs" />
   </ItemGroup>
   <ItemGroup>
