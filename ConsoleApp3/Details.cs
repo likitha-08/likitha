@@ -33,7 +33,7 @@ namespace ConsoleApp3
     }
     class Details
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
 
             Student student = new Student();
