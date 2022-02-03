@@ -41,7 +41,7 @@ namespace ConsoleApp4
     }
     class Interface
     {
-        public static void Main(string[] args)
+        public static void Main7(string[] args)
         {
             Car car = new Car(0);
             Console.WriteLine("Enter the amount of fule:");

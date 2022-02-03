@@ -49,6 +49,7 @@
     <Compile Include="ProblemStatement.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SquareArea.cs" />
     <Compile Include="StudentProfessorTest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
