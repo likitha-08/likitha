@@ -26,7 +26,7 @@ namespace ConsoleApp4
     }
     public class ProblemStatement
     {
-        public static void Main(string[] args)
+        public static void Main3(string[] args)
         {
             int total = 3;
             Persons[] persons = new Persons[total];
