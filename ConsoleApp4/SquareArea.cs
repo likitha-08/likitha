@@ -45,9 +45,9 @@ namespace ConsoleApp4
                 return side * side;
             }
         }
-        static void Main(string[] args)
+        static void Main8(string[] args)
         {
-            Square square = new Square(10, 5, 7);
+            Square square = new Square(4, 5, 8);
             Console.WriteLine(string.Format("Square: {0}", square));
             square.Move(1, 2);
 
