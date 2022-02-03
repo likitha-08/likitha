@@ -32,7 +32,7 @@ namespace ConsoleApp4
     }
     class AbstractClass
     {
-        public static void Main(string[] args)
+        public static void Main6(string[] args)
         {
             Console.WriteLine("Dog name:-");
             Dog dog = new Dog();
