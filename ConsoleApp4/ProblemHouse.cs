@@ -8,7 +8,7 @@ namespace ConsoleApp4
 {
     class ProblemHouse
     {
-        static void Main(string[] args)
+        static void Main9(string[] args)
         {
             SmallApartment apartment = new SmallApartment();
             People person = new People("Rahul");

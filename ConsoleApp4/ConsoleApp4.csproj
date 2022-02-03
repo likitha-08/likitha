@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="AbstractClass.cs" />
     <Compile Include="Abstractclasses.cs" />
+    <Compile Include="ComplexQuadiratic.cs" />
     <Compile Include="Interface.cs" />
     <Compile Include="ProblemHouse.cs" />
     <Compile Include="ProblemStatement.cs" />
