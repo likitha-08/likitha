@@ -6,51 +6,29 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
-    class A
+    struct Students
     {
-        int amember;
-        public A(int _amember)
+        public int rollNumber;
+        public string name;
+
+        static Students()
         {
-            amember = _amember;
+            Console.WriteLine("Object 1");
         }
-        public void PrintA()
+
+        public Students(int r, string n)
         {
-            Console.WriteLine(amember);
-        }
-    }
-    class B : A
-    {
-        int bmember;
-        public B(int _bmember) : base(_bmember)
-        {
-            bmember = _bmember;
-        }
-        public void PrintB()
-        {
-            Console.WriteLine(bmember);
-        }
-    }
-    class C : B
-    {
-        int cmember;
-        public C(int _cmember) : base(_cmember)
-        {
-            cmember = _cmember;
-        }
-        public void PrintC()
-        {
-            Console.WriteLine(cmember);
+            rollNumber = r;
+            name = n;
         }
     }
     class Program
     {
         static void Main1(string[] args)
         {
-            Console.WriteLine("Hello");
-            C cobject = new C(3);
-            cobject.PrintA();
-            cobject.PrintB();
-            cobject.PrintC();
+            Students s = new Students(1, "xyz");
+            Console.WriteLine(s.rollNumber);
+            Console.WriteLine(s.name);
         }
     }
 }
