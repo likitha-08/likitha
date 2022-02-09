@@ -47,6 +47,7 @@
     <Compile Include="CelciusConversion.cs" />
     <Compile Include="CollectionCount.cs" />
     <Compile Include="Division.cs" />
+    <Compile Include="GenericExample.cs" />
     <Compile Include="MathematicalStatistics.cs" />
     <Compile Include="Palindrome.cs" />
     <Compile Include="Program.cs" />

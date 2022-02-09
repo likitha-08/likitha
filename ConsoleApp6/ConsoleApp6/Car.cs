@@ -14,7 +14,7 @@ namespace ConsoleApp6
             public int YearOfManufacturing;
         }
 
-        static void Main5(string[] args)
+        static void Main7(string[] args)
         {
             int total = 2;
             Cars[] cars = new Cars[total];

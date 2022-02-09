@@ -8,7 +8,7 @@ namespace ConsoleApp6
 {
     class MathematicalStatistics
     {
-        public static void Main(string[] args)
+        public static void Main6(string[] args)
         {
             int total = 1000;
             float[] numbers = new float[total];
