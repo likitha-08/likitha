@@ -8,7 +8,7 @@ namespace ConsoleApp7
 {
     class QueueUsingArray
     {
-        public static void Main(string[] args)
+        public static void Main11(string[] args)
         {
             int size = 2;
             Queue queue = new Queue(size);
