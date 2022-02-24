@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CopyComplete
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\Dell\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
